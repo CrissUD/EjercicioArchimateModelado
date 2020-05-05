@@ -20,3 +20,9 @@ Esto se realiza para la posterior implementación de un sistema de documentació
 
 # Solución
 
+## ViewPoint a nivel de Organización
+
+<div align='center'>
+    <img  src='./resources/ViewPoint_Organizacional.jpeg'>
+    <p></p>
+</div>
