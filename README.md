@@ -26,3 +26,11 @@ Esto se realiza para la posterior implementación de un sistema de documentació
     <img  src='./resources/ViewPoint_Organizacional.jpeg'>
     <p></p>
 </div>
+
+## ViewPoint a nivel de procesos de negocio
+
+<div align='center'>
+    <img  src='./resources/ViewPoint_Bussines_Process.jpeg'>
+    <p></p>
+</div>
+
