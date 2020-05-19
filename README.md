@@ -44,7 +44,7 @@ Esto se realiza para la posterior implementación de un sistema de documentació
 ## ViewPoint a nivel de Aplicación
 
 <div align='center'>
-    <img  src='./resources/ViewPoint_Aplication.jpeg'>
+    <img  src='./resources/ViewPoint_Aplication.jpg'>
     <p></p>
 </div>
 
