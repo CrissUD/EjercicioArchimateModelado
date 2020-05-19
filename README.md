@@ -47,3 +47,11 @@ Esto se realiza para la posterior implementación de un sistema de documentació
     <img  src='./resources/ViewPoint_Aplication.jpeg'>
     <p></p>
 </div>
+
+## ViewPoint a nivel de uso de Aplicación
+
+<div align='center'>
+    <img  src='./resources/ViewPoint_Aplication_Use.jpeg'>
+    <p></p>
+</div>
+
