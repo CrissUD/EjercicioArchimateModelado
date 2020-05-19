@@ -40,3 +40,10 @@ Esto se realiza para la posterior implementación de un sistema de documentació
     <img  src='./resources/ViewPoint_Business_Process.jpeg'>
     <p></p>
 </div>
+
+## ViewPoint a nivel de Aplicación
+
+<div align='center'>
+    <img  src='./resources/ViewPoint_Aplication.jpeg'>
+    <p></p>
+</div>
