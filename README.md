@@ -55,3 +55,9 @@ Esto se realiza para la posterior implementación de un sistema de documentació
     <p></p>
 </div>
 
+## ViewPont a nivel de uso de la Infraestructura
+
+<div align='center'>
+    <img  src='./resources/ViewPoint_infraestructure_usage.jpg'>
+    <p></p>
+</div>
